@@ -1,0 +1,26 @@
+body{
+  background-color: #B6C9F0;
+  font-family: calibri;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted ;
+  border-color: #47597E;
+  border-width: 6px;
+  width: 3%;
+}
+
+h1{
+  color: #262A53;
+  font-family: Verdana;
+}
+h2{
+  color: #262A53;
+  font-family: Helvetica;
+}
+h3{
+  color: #262A53;
+  font-family: sans-serif;
+}
